@@ -1,7 +1,6 @@
 # New Login Screen
 
-![Screenshot_1665483755](https://user-images.githubusercontent.com/55742347/195066340-7c3717b3-364e-4787-9a89-11a76e9fff26.png) ![Screenshot_1665483750](https://user-images.githubusercontent.com/55742347/195066368-6bba6df7-c54b-4967-8a8e-fce5305c7168.png)
-
+![Screenshot_1665483755](https://user-images.githubusercontent.com/55742347/195066634-f8c6029d-74c1-439c-8542-e1eab5179593.png) ![Screenshot_1665483750](https://user-images.githubusercontent.com/55742347/195066660-2a98a05a-2bca-4fc5-a7fd-90aecf63d3a5.png)
 
 
 A new Flutter project.
